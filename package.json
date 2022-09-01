@@ -52,7 +52,6 @@
     "concat-map": "^0.0.1",
     "core-util-is": "^1.0.2",
     "cross-spawn": "^7.0.3",
-    "cypress-mochawesome-reporter": "^3.2.2",
     "dashdash": "^1.14.1",
     "dateformat": "^4.6.3",
     "dayjs": "^1.11.5",
@@ -226,6 +225,7 @@
   },
   "devDependencies": {
     "cypress": "^10.7.0",
+    "cypress-mochawesome-reporter": "^3.2.2",
     "mocha": "^10.0.0"
   },
   "scripts": {
